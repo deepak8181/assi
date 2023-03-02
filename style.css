@@ -1,0 +1,44 @@
+
+
+.title_name{
+    padding-left: 15px;
+    font-size: 3.5rem;
+}
+.first_div{
+    background-color:#FFFFE8;
+    width: 50%;
+    border-style: groove;
+    border-width: 0.4rem;
+    border-color: red;
+
+
+}
+
+
+.second_div{
+    border-style: solid;
+    border-width: 0.6rem;
+    border-color: #fca53a;
+    width: 60%;
+    margin-left: 20px;
+    margin-bottom: 40px;
+    
+}
+
+.third_div{
+    background-color: yellow;
+    width: 60%;
+    border-style: dashed;
+    border-width: 0.5rem;
+    border-color: #fca53a;
+    padding-left: 5px;
+    margin-left: 20px;
+    margin-bottom: 25px;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+
+}
+.line{
+    color: rgb(40, 36, 36);
+    font-style: normal;
+}
